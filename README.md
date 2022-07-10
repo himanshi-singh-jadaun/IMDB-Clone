@@ -35,5 +35,11 @@ On pressing enter, on particular movie title all the movies with that name will 
 ![alt text](./screenshot/favourite.png)
 </ul>
 
+## Run MY IMDB Clone on your system
+```
+Run index.html on any server
+```
+
+
 ## Link to my Website 
 Click on the [link](https://himanshi-singh-jadaun.github.io/imdb-clone/) to get the live hosted website on Github. 
